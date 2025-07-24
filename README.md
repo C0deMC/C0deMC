@@ -11,14 +11,16 @@ I am a passionate and driven computer science student focused on building a care
 
 ## 💡 Skills
 
-| Skill                                             | Associated Coursework or Project        |
-|--------------------------------------------------|------------------------------------------|
-| Operating System Installation & Configuration    | Operating Systems Course                 |
-| Functional Testing & Root Cause Analysis         | Manufacturing Test Technician            |
-| SQL and Relational Databases                     | SQL & Database Theory Course             |
-| HTML/CSS for Front-End Web Development           | Web Development Coursework               |
-| Hardware Assembly and System Integration         | Manufacturing Test Technician            |
-| Quality Assurance and Documentation              | Manufacturing Test Technician            |
+| Skill                                             | Associated Coursework or Project                        |
+|--------------------------------------------------|----------------------------------------------------------|
+| Operating System Installation & Configuration    | Operating Systems Course                                 |
+| Functional Testing & Root Cause Analysis         | Manufacturing Test Technician                            |
+| SQL and Relational Databases                     | SQL & Database Theory Course                             |
+| HTML/CSS for Front-End Web Development           | Web Development Coursework                               |
+| Hardware Assembly and System Integration         | Manufacturing Test Technician                            |
+| Quality Assurance and Documentation              | Manufacturing Test Technician                            |
+| Virtualization & Lab Environment Setup           | <a href="https://github.com/C0deMC/Virtual-Machine-Setup">Virtual Machine Setup Guide</a> |
+
 
 ---
 
@@ -56,17 +58,17 @@ _In Progress_
 ### Relevant Coursework
 
 **Completed:**
-- Operating Systems  
-- SQL  
 - Database Theory and Applications  
 - HTML & CSS  
 - Microsoft Access  
+- Operating Systems  
+- SQL  
 
 **To Be Completed:**
-- Internet Networking and Security  
 - Computer Networks  
-- Web Programming with PHP & MySQL  
+- Internet Networking and Security  
 - Unix  
+- Web Programming with PHP & MySQL    
 
 ---
 
@@ -85,12 +87,18 @@ _In Progress_
 
 ## 🧪 Projects
 
-These repositories will soon contain hands-on work related to:
+### [🖥️ Virtual Machine Setup Guide](https://github.com/C0deMC/Virtual-Machine-Setup)
 
-- **Operating System Lab Environments** – Including installation, configuration, and troubleshooting  
-- **Database Projects** – SQL queries, relational model designs  
-- **Basic Web Development Projects** – HTML, CSS-based static websites  
-- **Network & Security Labs** – (To be added once coursework is completed)
+This project provides a comprehensive guide to understanding, creating, and configuring virtual machines using VirtualBox. It covers BIOS setup, downloading ISO files, configuring hardware settings, and installing operating systems such as Kali Linux or Ubuntu. The project demonstrates key skills in virtualization, secure lab environments, and system configuration—essential foundations for cybersecurity, IT, and systems administration.
+
+**Key Topics:**
+- Type 1 vs Type 2 Hypervisors  
+- VirtualBox installation and configuration  
+- Operating system installation and VM resource allocation  
+- Secure lab design for cybersecurity and experimentation  
+- VirtualBox features like snapshots, shared folders, and NAT/bridged networking
+
+> _Skills Demonstrated: Virtualization, Lab Setup, OS Configuration, Technical Documentation_
 
 ---
 
@@ -109,8 +117,7 @@ While I have not yet completed any certifications, I am preparing to pursue:
 
 - **Email:** Miguel92Carrera@gmail.com  
 - **Phone:** 781-535-7215  
-- **LinkedIn:** https://www.linkedin.com/in/mcarrera01/  
-- **GitHub Repositories:** Explore below
+- **LinkedIn:** https://www.linkedin.com/in/mcarrera01/
 
 ---
 
